@@ -34,7 +34,7 @@ The Fitness Tracker Application is a React-based web application designed to hel
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/minnukota381/Fitness-Tracking-App-UI-React.git
+    git clone https://github.com/adityaj2006/FitnessTrackingt.git
     ```
 
 2. Navigate to the project directory:
